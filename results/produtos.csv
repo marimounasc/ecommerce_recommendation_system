@@ -1,0 +1,501 @@
+product_id,categoria,subcategoria,nome,preco,marca,quantidade_em_estoque
+71cf7a50-680f-4a88-a11c-58422f55c881,Eletrônicos,Smartphones,iure,2522.5,Pires Nunes Ltda.,267
+87a71ff8-54c3-44d8-985f-c7d0c504db24,Automotivo,Ferramentas,cumque,3208.27,da Conceição Sales - EI,28
+22a058b7-df36-47ea-b910-52d62f84fd64,Automotivo,Ferramentas,veritatis,3555.34,Campos Vieira - ME,497
+9e62cc36-ab8d-4640-94ba-fa8e7637a3c2,Esportes,Indoor,doloribus,2016.61,Machado - ME,507
+1ea4d594-ab8d-4baa-8afc-5d28e2662fa0,Esportes,Indoor,in,573.11,Novais Ltda.,864
+922bdcf0-28f1-43f4-86ad-2c589617358c,Roupas,Feminino,praesentium,3759.28,Oliveira e Filhos,628
+c986f99d-12ea-48b6-b23f-898533a7d574,Eletrônicos,Tablets,magni,2000.05,Cunha S/A,854
+88b62ee6-8f51-4d0c-99f4-c996ad360057,Esportes,Outdoor,ad,434.03,da Cunha,728
+04b01267-81ec-43f0-97a8-7fdc2c007390,Automotivo,Acessórios para Moto,quibusdam,153.35,Montenegro,483
+600bd098-cd8c-4a7a-8584-37eb42a3c1f7,Esportes,Indoor,fugiat,1732.61,da Cunha,397
+ec411741-8b7c-4937-a4d0-78cf504d8fcf,Eletrônicos,Laptops,sequi,4557.4,da Cunha das Neves S.A.,361
+84136b02-78da-4201-9625-8863cfe116f9,Eletrônicos,Smartphones,iste,599.03,Viana e Filhos,846
+ab21bfaf-56d2-4ca5-be4c-29daaa260635,Eletrônicos,Laptops,molestiae,4551.29,Barbosa,991
+16a1ef87-f545-4c7c-841e-793e789d5dca,Casa e Jardim,Cozinha,tenetur,2881.12,Castro,438
+8fffd136-89e8-41c4-a063-33f330cc46e8,Eletrônicos,Smartphones,deleniti,4200.64,Leão,69
+a0acd24b-85c0-4909-82a2-ab3b902d8c3d,Esportes,Indoor,aperiam,244.05,Jesus,823
+de3051f7-5b6d-4d8b-af3d-467350a0c5d1,Casa e Jardim,Cozinha,libero,2990.33,Duarte - ME,668
+0d90eaa4-8d1d-4ea9-83e7-81ac5a56b410,Roupas,Masculino,accusantium,4315.25,Moreira S.A.,269
+4db11bad-b517-4a1a-a022-89c02a00a77d,Automotivo,Ferramentas,fugiat,3292.99,Ferreira S.A.,575
+3d8eccc5-8115-4498-bd11-39903a09991d,Esportes,Outdoor,hic,1058.13,Cunha - ME,100
+53aa8988-a286-4c96-9cb3-de8337d46aad,Automotivo,Ferramentas,unde,3680.52,da Paz,241
+cec3bcc8-6926-4655-b07b-a62532d7d7cd,Roupas,Feminino,aliquam,3371.63,Viana,28
+e9e6e665-28c7-4aa8-8d44-ee9f75d648e9,Esportes,Outdoor,ut,3577.62,Nogueira,143
+bc99d13e-08ee-4af0-aa2c-361f85d0929f,Casa e Jardim,Jardim,dicta,2339.45,Nogueira,609
+4cd526dd-4a80-4c7c-96b9-c2dcebda1c7d,Eletrônicos,Tablets,facere,3213.93,Andrade Rios S/A,644
+33f3d079-4f79-48b8-a530-476208740a47,Esportes,Fitness,accusamus,2455.14,Guerra Teixeira S/A,35
+072f597a-8aeb-436f-bc5d-3255b02023f7,Casa e Jardim,Cozinha,eaque,3222.54,Gonçalves - ME,996
+73541a39-b93b-459b-bf5c-4f814c967405,Automotivo,Acessórios para Carro,hic,813.68,da Cunha,91
+30e8dbae-35dc-47f4-a59a-730e0323af2d,Eletrônicos,Tablets,numquam,4865.11,Leão S/A,640
+621c79e2-8254-4350-8776-2f06dea6b489,Eletrônicos,Laptops,impedit,1172.3,Costela,145
+66f15953-7af9-45ad-9c83-397d04914924,Automotivo,Acessórios para Carro,consequatur,62.16,Machado Caldeira e Filhos,972
+6f9388b5-2f9c-4104-a5ea-146909e6fce8,Casa e Jardim,Cozinha,accusamus,1232.56,da Mata - EI,457
+c5cd35cb-79cb-4773-b35f-c374c083e29a,Roupas,Feminino,ea,4665.31,da Paz Ltda.,174
+d3009755-aeb4-444b-874a-38da0a221bfd,Roupas,Feminino,harum,1201.03,Vargas e Filhos,248
+c303c5a8-2574-4f1c-adcb-bfa9825bfdc8,Automotivo,Acessórios para Moto,dicta,4557.48,Novaes,436
+caeec05e-2827-4a18-bc81-98b31ffa6d16,Automotivo,Ferramentas,quo,2512.79,Peixoto,922
+8ec2d3d5-f57c-4951-8ad8-8f91f68d516e,Automotivo,Acessórios para Carro,vitae,3891.7,da Luz,295
+93ea1001-460a-4ec3-a253-e49df3f73c36,Eletrônicos,Tablets,dolores,4183.92,Marques,950
+07b42f43-e180-4ec8-b019-75973a786c7c,Eletrônicos,Tablets,accusamus,3636.16,Sampaio Cirino e Filhos,936
+7cc92af3-5a04-4495-8319-d5b5f44a2c96,Roupas,Feminino,suscipit,4870.56,Almeida,635
+e947986a-d120-4f3b-b3bf-16817d6ca20a,Esportes,Outdoor,quae,291.86,Pastor,725
+95dbcc02-5aa8-4fc6-b152-ff100422b300,Automotivo,Acessórios para Carro,quod,2901.34,Rios Ltda.,429
+9818577c-0719-4f5f-8686-4da65d456669,Eletrônicos,Laptops,distinctio,3054.08,Aragão Jesus S.A.,350
+e2066c37-4117-4db9-9321-bea7b105a51f,Esportes,Outdoor,modi,3238.85,Ribeiro Rios e Filhos,687
+6d88300f-ce93-4871-8215-c1563da70f09,Roupas,Infantil,aut,3583.96,Freitas,481
+ad284557-deed-4813-9fa5-341401a78686,Roupas,Infantil,minus,112.58,Cirino e Filhos,623
+038cd9b2-a573-4876-b6ad-eeea46502307,Casa e Jardim,Móveis,dolore,2738.57,Marques Monteiro - EI,933
+336da09d-16e8-4846-bf88-c8b8a7d1f9dd,Automotivo,Acessórios para Moto,assumenda,1275.61,Abreu,852
+775baa64-f957-49bb-9905-3d290188b8dd,Eletrônicos,Smartphones,explicabo,1736.47,Gonçalves,780
+d327154a-9de9-4967-8f8c-09cc919a48ef,Automotivo,Ferramentas,exercitationem,1893.14,Siqueira,868
+7804652e-20dc-4a47-b598-b6e226c3d650,Eletrônicos,Tablets,inventore,3897.24,Viana Casa Grande - ME,203
+b233c719-1d7a-453e-a3ad-99eacf4fe367,Eletrônicos,Laptops,id,3407.35,da Paz Cavalcante Ltda.,931
+59002421-5d76-4549-8b92-ad1cb4a8df8a,Roupas,Feminino,tempora,3240.08,da Mata,663
+8862d500-7772-472d-86bd-1186c613f57b,Roupas,Feminino,vero,2598.62,da Cruz,102
+7329a8a1-ecb8-43e2-990c-30c39d2af6f5,Esportes,Fitness,ullam,2305.97,Almeida Alves S.A.,30
+3e70fa00-cc39-46cf-b99b-7d71608273b5,Roupas,Infantil,accusamus,1963.87,Montenegro,901
+d0b3c6fc-1e70-4a58-954d-f0e38835489f,Esportes,Indoor,asperiores,1710.94,Moura,962
+eb01589d-0d69-4a0e-8342-3b7b550a1af2,Automotivo,Ferramentas,molestiae,2342.93,da Mata,675
+a8a5dc3e-808b-47b1-8dad-a600f318ec4d,Roupas,Masculino,nemo,3766.78,Rios Jesus Ltda.,296
+36cbdfa0-01b1-49db-b1af-8c44d43416b0,Eletrônicos,Laptops,eius,3188.68,Caldeira da Costa e Filhos,353
+76620de2-8a8a-4458-b131-a3d4416ebe41,Roupas,Infantil,incidunt,367.43,Farias da Mota e Filhos,939
+368e9ee5-9c3c-4b0b-bdc9-8d3902a0b0d7,Casa e Jardim,Jardim,soluta,4534.78,Barros Souza - EI,124
+836f5c69-6a29-442b-b1a4-fe5fc117ac24,Automotivo,Acessórios para Moto,veritatis,3384.05,Pinto,745
+7cda9a18-cc2c-4578-bf91-7461cd5d60d4,Automotivo,Acessórios para Carro,quia,680.35,Montenegro,160
+31e227c0-fc64-4de5-af98-6e7bfd5ab19f,Roupas,Feminino,illo,323.44,Dias Carvalho Ltda.,60
+583a2ed5-6ede-4680-ac49-ff6a2c9cc2e5,Casa e Jardim,Móveis,voluptatem,2822.92,Pereira Castro - ME,525
+04c19503-3e0f-4e74-9129-ffc6ee8dd850,Eletrônicos,Tablets,sunt,4438.06,Pacheco,494
+b0c6483b-4c05-46a7-bcca-6869a1ee5b32,Casa e Jardim,Jardim,ipsum,1631.0,da Cunha S.A.,650
+29d33c1c-ba23-42a1-8802-4edd2bbf47b2,Eletrônicos,Laptops,laboriosam,1853.93,Cavalcanti S.A.,830
+1a0de4bf-a5a3-47b4-bbe5-4675b11c84df,Casa e Jardim,Cozinha,autem,4439.5,Castro da Cruz S.A.,655
+32a589b2-ebe9-4b8a-8d63-0538f6b39afc,Eletrônicos,Tablets,iure,4976.19,Montenegro,314
+7caa0332-f684-4813-bb41-cb2c713e8f89,Esportes,Fitness,praesentium,4693.27,Cavalcanti - ME,539
+de6b0ee7-8c37-4216-9673-b5b6d341249e,Automotivo,Acessórios para Moto,repellendus,1339.63,Sousa Sousa - EI,321
+477955c5-f756-4d2d-99ce-8b46ad0b445f,Esportes,Outdoor,dolore,3371.4,Pereira,355
+d09cc910-92af-4418-b959-0d4ea755add1,Esportes,Fitness,voluptate,2416.5,Viana e Filhos,241
+f2eacbd6-cb1f-47be-b068-b2335566773d,Casa e Jardim,Jardim,beatae,4412.84,Azevedo e Filhos,514
+d053469e-1f7c-4536-8658-614cd5bfdc3e,Esportes,Outdoor,cupiditate,130.12,Siqueira,290
+8386b349-d5a8-48b4-9756-83ed3b7f82a8,Esportes,Indoor,omnis,4175.22,Ribeiro,706
+e572dc03-53dc-465f-bce3-6b7213b84173,Casa e Jardim,Móveis,sapiente,4455.97,Brito,58
+a0f0af38-3d32-49c3-aaab-c25b145dd10a,Esportes,Fitness,velit,2461.58,Montenegro,162
+2318ecdc-7f43-4912-b79c-863943a16276,Automotivo,Ferramentas,soluta,2682.23,Aragão S/A,936
+5f8c8247-0406-46f4-b283-21a751b2b627,Eletrônicos,Laptops,quidem,4466.94,Gomes e Filhos,867
+e764b80d-0bbe-472c-a953-06b1aa2cf45f,Esportes,Outdoor,eaque,885.58,da Cunha,378
+ab270adc-3dcd-4b50-99ea-9f81525639de,Eletrônicos,Tablets,quasi,1114.72,da Cruz,541
+74c0da11-4796-4a56-b834-f8babd61977a,Casa e Jardim,Cozinha,possimus,4121.13,Porto Barbosa S/A,778
+f7ca102f-9cfc-4d5d-be54-44842b4e2456,Automotivo,Ferramentas,illo,519.16,Camargo,795
+72ddf0f9-be47-419e-98c7-7e1ff19b470c,Eletrônicos,Laptops,nulla,2448.98,da Rosa,146
+bff38198-1113-464b-97c6-b598ce64609a,Eletrônicos,Smartphones,cumque,578.49,Macedo,127
+7170f128-51cf-4405-b9e4-3fc1f89d2b67,Casa e Jardim,Jardim,eaque,4591.23,Rios - EI,812
+e3eaf91c-4c16-421c-8247-a6bedd441c8e,Roupas,Masculino,veritatis,2789.95,Viana,459
+7e7557b5-dfdc-45b2-9145-7e0da6a46855,Roupas,Infantil,optio,2426.93,Castro Azevedo - EI,764
+c7ba9991-480f-48b4-94c2-00240f1c24b9,Casa e Jardim,Móveis,similique,3719.36,Correia,480
+257242f7-9dfa-4300-ad05-9e6aa55644c6,Roupas,Feminino,officia,513.25,Gonçalves Pacheco e Filhos,835
+c5bc9ebe-7e41-4658-8d55-21048cc42cb2,Automotivo,Acessórios para Moto,iusto,4464.76,Lima Nunes - ME,84
+8b9a2228-c661-4109-8671-b7a4c86f444c,Roupas,Infantil,mollitia,1742.28,Silva - EI,596
+01a51561-79a3-4248-8779-183776e03a96,Roupas,Feminino,impedit,4911.07,Camargo Ribeiro Ltda.,449
+655fabbe-879b-4a6b-8f8e-9ccf5e56070a,Casa e Jardim,Jardim,quisquam,1859.84,Melo e Filhos,879
+31f033ca-de65-4df6-b103-8a69122dbe0c,Eletrônicos,Tablets,pariatur,1304.23,Rodrigues S.A.,301
+5cf1946e-6e63-4d91-903f-7bdf4953c874,Esportes,Fitness,voluptatem,2814.89,Camargo S.A.,11
+f5007d1c-5537-4f73-b042-8925f0fbf5a5,Casa e Jardim,Cozinha,nihil,2953.07,Aparecida,130
+a876b870-25b4-4fd3-b281-c3ef7682aa69,Roupas,Infantil,libero,2402.68,da Paz,778
+19e19f1e-969c-415c-932a-a3e707ed0cbb,Roupas,Masculino,explicabo,318.42,Cassiano,153
+9f17dde5-35b6-4052-94fa-5a4b2f26c3a3,Roupas,Feminino,dolore,343.31,das Neves,550
+b669cce3-79d2-4b89-8d71-1285ee4fdac7,Casa e Jardim,Móveis,placeat,460.92,Souza Rezende e Filhos,358
+c7e6e8e4-e7c8-4376-b8ca-d4feceebe45a,Esportes,Fitness,cupiditate,132.14,Fogaça,275
+0d4862ce-6c01-4d5a-9e00-f7f99821473a,Casa e Jardim,Jardim,nisi,414.8,Sales,680
+4da90d20-2ddb-4ce6-a98d-e0c83ad7182b,Roupas,Infantil,quo,1976.98,Araújo,755
+8963beba-da16-418a-adce-0bb3278ee8ab,Esportes,Fitness,vitae,2874.52,Pinto e Filhos,704
+12547ef5-5350-4d23-a157-2be5ab80e0b1,Automotivo,Acessórios para Carro,aperiam,2535.66,Pastor S/A,792
+061d692e-d4b5-40c9-a0cb-9ac67e951d70,Esportes,Fitness,fuga,2554.71,Sá,832
+d74086eb-abb2-45b4-b288-e6a6be85aeee,Esportes,Fitness,quis,3465.41,Silva,817
+7a2c41f1-3390-4f75-9301-a524605b3aef,Automotivo,Acessórios para Moto,quod,947.95,Campos,138
+6a0682a8-3d88-4220-93d0-427f5e4cb522,Roupas,Masculino,maxime,1777.49,Ferreira Ltda.,490
+93438aa3-8d39-42ed-a0ba-3472c18c75a5,Esportes,Fitness,nisi,3366.31,da Rocha,938
+9dccdd8c-4dd0-44a6-b583-0c979b2f66ba,Esportes,Outdoor,praesentium,1668.75,Ramos Ltda.,788
+05e67a1a-a3c4-45be-8950-efc2fa186472,Esportes,Outdoor,labore,4096.17,da Luz S.A.,556
+9b3c6210-6a44-489c-88c7-4da918f1257a,Eletrônicos,Tablets,accusantium,684.63,Fogaça S/A,473
+735709d7-0651-45b1-a1e6-9960f4cca0a3,Casa e Jardim,Jardim,ipsa,2825.13,Oliveira,901
+fcc4e2bf-58cc-463c-938e-b026b68af74f,Automotivo,Acessórios para Carro,nam,4686.58,Machado,785
+bad2bfb3-8c2b-4f89-a2cb-3c118cba4eed,Automotivo,Acessórios para Moto,tempore,258.12,Rocha Cavalcante - ME,848
+36aef35b-5bb8-4ab1-9a22-e0fc2ed352f4,Roupas,Infantil,incidunt,1903.0,Leão Martins S/A,131
+03d54934-d0d0-4ee3-8d24-647aba30b7f5,Eletrônicos,Smartphones,voluptatum,1242.81,Cirino,914
+8b482da3-b7b9-4331-8413-70a85c1d4c8e,Casa e Jardim,Móveis,velit,654.3,Cassiano S/A,542
+c4ff1026-c4ea-43c3-bc48-879917ddada7,Esportes,Fitness,velit,3659.13,Barros,821
+440665c3-eb1a-4366-8c59-30c7946ba197,Casa e Jardim,Jardim,reiciendis,2183.84,Mendonça,99
+c38af0c8-33ab-4716-be52-2d813151cc18,Automotivo,Acessórios para Carro,consequuntur,910.12,Lima Farias S.A.,682
+f45e663b-c546-4098-a8bb-2dd86b6aaed5,Eletrônicos,Smartphones,architecto,4534.84,da Paz,109
+00568215-9e23-4168-a8f0-212138f39f91,Roupas,Masculino,corrupti,852.96,Santos Andrade S/A,21
+d6ae0091-c4e4-4013-bcde-a1d9254c0cdd,Esportes,Fitness,error,3371.37,Vargas,754
+599fec3b-6d4a-45ee-9054-6e09cba71ad0,Esportes,Fitness,magni,200.26,Machado,652
+1113c923-7f5a-444b-9a6c-3b0621269f69,Eletrônicos,Laptops,maiores,4603.13,Fonseca,330
+01e811c5-3d99-4314-9c1d-b4a237795c3b,Eletrônicos,Laptops,deserunt,686.47,Farias - ME,644
+73052e73-c70f-4944-b239-b495e1d0665c,Casa e Jardim,Cozinha,minima,3387.36,das Neves - EI,514
+42c1f37c-c67c-4e35-90ce-727dfb17644a,Roupas,Masculino,vel,2779.99,Albuquerque,764
+b53b81a5-0318-4ce0-a9a6-f4a2977dcc63,Automotivo,Acessórios para Moto,inventore,4376.15,Vieira Carvalho e Filhos,716
+d4dd9b9e-182e-4276-a770-1f3bc137495d,Esportes,Outdoor,aut,4498.7,Leão - EI,503
+51455af0-84c2-48d9-9f60-4933d6f07e5b,Casa e Jardim,Móveis,debitis,1340.6,Freitas,88
+063f5e6d-14b5-42fa-aae4-aa705c41e696,Esportes,Fitness,reprehenderit,1878.62,Aparecida,982
+11b2bf83-2433-4bb4-a1c4-771d46419e2f,Eletrônicos,Laptops,omnis,2357.86,Cardoso,247
+eee22065-964d-4a4e-b5b3-05d2e21e6558,Casa e Jardim,Jardim,eos,3130.06,Macedo,744
+a40d4fe4-5d64-4811-af27-f65524fbfb04,Automotivo,Acessórios para Carro,veniam,2403.47,das Neves,954
+34f23eae-2682-4fae-965b-b38e404683f4,Automotivo,Acessórios para Moto,a,3642.37,Câmara,264
+b0358ee8-5d79-4663-a532-dc172fe4783a,Eletrônicos,Tablets,dolor,1410.45,Freitas,691
+bff16090-574b-4b6c-bce1-2d0c80da0c7a,Casa e Jardim,Cozinha,excepturi,1288.4,Santos,995
+481e33c4-0bcf-4f09-8e57-0bf56995aac8,Automotivo,Ferramentas,cum,3474.35,Azevedo Viana - ME,447
+f2138ae6-8b1b-4fc9-8254-d673cd9cd413,Esportes,Indoor,aut,3173.45,Duarte,50
+0d8d5f4e-45e4-4974-a275-39d1f5fe17bf,Roupas,Masculino,distinctio,4897.07,Fernandes Guerra - ME,658
+9e7eb4a5-d766-42c3-85cc-064d4643a20e,Automotivo,Ferramentas,consequuntur,4741.84,Pires - ME,702
+9c09f498-0d6a-46fa-be55-b287d380d1cf,Casa e Jardim,Cozinha,consequatur,3543.89,Ribeiro,698
+d04796bb-88df-4555-8faf-ed55ae702f60,Roupas,Infantil,vero,2956.28,Caldeira,858
+2318bdf7-1933-4b64-aa4b-bdafa8c859e0,Roupas,Masculino,dolor,2230.8,Monteiro Leão Ltda.,269
+2fcbf58e-1f39-45d3-88e7-e2b9136672f0,Roupas,Feminino,illum,370.36,Jesus,436
+28fdb5a9-8a6b-41cb-b3f1-68a43556b4eb,Casa e Jardim,Cozinha,praesentium,4164.53,Leão,690
+81d87825-2f1c-412e-96ed-e901c0bc820c,Roupas,Infantil,nesciunt,4558.78,Ramos Teixeira S/A,154
+cd05a904-eef1-4892-a039-b4ef0500e50f,Automotivo,Acessórios para Carro,impedit,3448.44,Cirino,646
+e62daef1-2e68-4a8a-99b4-66a2c542f4ff,Esportes,Indoor,occaecati,4565.15,da Rocha Moura S.A.,957
+9327413a-df01-45c5-9350-103a5d0679e4,Automotivo,Acessórios para Carro,iusto,382.19,Garcia Cunha S/A,53
+1f181923-62fb-43df-88b3-7736fdc882d9,Automotivo,Acessórios para Moto,fuga,699.43,Jesus Gomes e Filhos,476
+50450780-a259-4e33-a4fe-c989edfaf26e,Roupas,Masculino,distinctio,711.36,Correia,85
+15522074-4997-4285-a18f-466eeac27c40,Casa e Jardim,Jardim,autem,4810.62,Fonseca - ME,504
+4da303a5-caad-4dc4-ac7b-00b29c5c5b19,Automotivo,Ferramentas,eveniet,844.61,Rios,141
+42aa3332-cc18-4eab-a452-64eff673cfba,Automotivo,Acessórios para Moto,sint,2453.88,da Paz Santos e Filhos,248
+497bba12-a825-4e24-8051-3208400a5856,Roupas,Feminino,nemo,144.86,Aragão - EI,858
+43c3232d-c0de-4143-9563-30da871e942f,Roupas,Masculino,eius,4521.17,Rodrigues,696
+6abecead-a0e2-4840-8001-9097c86bbe0b,Casa e Jardim,Móveis,expedita,406.05,Casa Grande Farias Ltda.,375
+49df5919-0fcf-4cde-bcc4-323c10db8bca,Eletrônicos,Tablets,quaerat,222.1,Machado Fonseca Ltda.,774
+8bb1a7d7-d755-4d52-9bde-6c8bd1d18c25,Eletrônicos,Laptops,amet,1594.51,Cardoso da Conceição Ltda.,896
+95250c31-0fad-47bc-a3b2-6a5b32d6c9ec,Automotivo,Acessórios para Moto,maxime,1341.71,Melo,674
+259761ae-33e1-48f0-a808-ff94fe9eb007,Roupas,Infantil,eligendi,4620.99,da Paz,996
+852d6776-8ac1-40d5-b501-cce539648c35,Casa e Jardim,Cozinha,mollitia,439.28,da Mota Farias - EI,292
+cbe4638f-024b-4304-bee8-dc24f71abc37,Automotivo,Acessórios para Carro,quisquam,2931.5,Jesus,50
+e6cad73b-ef67-4818-863c-24ffa9bd03a2,Eletrônicos,Smartphones,dolorum,2230.05,Dias,870
+a2f394fa-c82f-4505-81f4-401784fb9d86,Esportes,Fitness,amet,1733.78,Andrade S/A,708
+dc93e91a-1d61-4212-a6fb-8083e48216fb,Automotivo,Acessórios para Moto,exercitationem,624.78,Silveira Gonçalves S.A.,960
+3c3ce79d-6b0c-4c7d-93fc-c8ab887389b2,Roupas,Infantil,commodi,4927.39,Barbosa,722
+fdd646ac-a927-4e8c-b29c-e2bb3e463d28,Eletrônicos,Laptops,praesentium,4249.69,Porto,175
+fa553495-e32e-4118-aeeb-4b32c6d67190,Roupas,Infantil,praesentium,4871.48,Macedo,369
+b24e718c-4d9e-410c-b439-a8a0d9f2020c,Automotivo,Acessórios para Moto,omnis,4670.28,Cavalcanti,553
+8e4ca827-109d-41b8-a4bc-07835109adeb,Eletrônicos,Tablets,sed,865.91,Duarte,706
+ffe8698d-93be-40eb-8ce7-1f1ede131b4e,Roupas,Feminino,dolorum,2414.39,Sampaio Casa Grande - ME,576
+67945d31-ff2f-4332-ac90-c3c9fc331e1d,Automotivo,Acessórios para Moto,veniam,2246.1,Novaes,19
+f82e1cc5-8178-4124-a159-132c8f14db65,Eletrônicos,Smartphones,officiis,2196.35,Sá,406
+e5c1231c-6ba5-4f03-8e32-b8078f32d46c,Automotivo,Acessórios para Moto,explicabo,612.12,Câmara,583
+5d585978-cd10-4f95-a9cf-4a17400cad88,Esportes,Indoor,corporis,3963.89,Sá S/A,650
+f0f6e186-da11-45fa-8eb8-0d8a0b957937,Esportes,Fitness,earum,3608.38,Santos S/A,587
+c83e786f-1b6b-44f7-bfd0-23655c0a12d6,Casa e Jardim,Cozinha,nemo,1743.59,Cavalcante Dias S.A.,132
+bacd1db5-be1b-4c3d-a497-b61790565d12,Esportes,Outdoor,minus,3691.8,Siqueira,573
+8a77e378-a016-4920-b428-81a7e35e6a2e,Eletrônicos,Tablets,corrupti,2305.34,Moreira,739
+a74ccb7b-3d08-473e-abae-5cfaafde386d,Roupas,Infantil,soluta,4241.22,da Cruz Marques - EI,417
+cae47cd6-cb79-4dc4-9b3a-e2cc0b8bc318,Eletrônicos,Tablets,hic,2943.64,Teixeira Araújo S/A,197
+910a13bf-54b3-4f49-a4c2-1b84dac91f98,Roupas,Feminino,architecto,3710.19,Pacheco,605
+55715364-684c-4955-8707-23056e38228e,Casa e Jardim,Móveis,nihil,2294.2,da Cunha Mendes e Filhos,532
+9411e6a1-d6d1-4293-8134-b97d8e36391f,Roupas,Infantil,delectus,2206.23,Cavalcante,855
+913a56f5-f186-43f2-a965-99dd06ce4b10,Eletrônicos,Tablets,ex,3648.13,Aragão,568
+9477fe95-e006-4617-9716-4c0d93bd33e0,Casa e Jardim,Jardim,corrupti,1159.32,Cunha - ME,4
+59df0df5-99c9-48bc-87ca-2f04975b804b,Automotivo,Acessórios para Moto,exercitationem,695.28,Araújo - EI,171
+5184f2c1-fbce-4b60-aab7-4e3e78de0fc5,Eletrônicos,Tablets,architecto,3307.0,Melo Gonçalves - ME,249
+af66df87-a589-4a0e-bf3e-9c4dccf88edf,Casa e Jardim,Cozinha,aliquid,3311.06,Siqueira S.A.,465
+a124f23d-a36f-4ff4-89d2-4fd0497e2154,Esportes,Fitness,tempore,3444.28,da Rosa Rodrigues S.A.,60
+34648385-be0c-4a5b-b0a3-9cf5d8c185ff,Automotivo,Acessórios para Carro,corporis,3029.86,da Rocha Cunha e Filhos,790
+cc9ef660-ca74-4fc2-8175-b81029c6ce2f,Automotivo,Acessórios para Moto,quam,435.12,Melo,899
+8d1540ff-4890-472a-965a-a493882e7dc4,Roupas,Masculino,nulla,3799.97,Moura,453
+a3a3a5c4-d1d6-4799-8a69-a13f900056d2,Eletrônicos,Tablets,voluptas,1244.38,Monteiro,391
+4c097365-c194-4161-9d48-0fb6ee440897,Esportes,Fitness,culpa,937.54,Nascimento,551
+f3280e50-16d4-4705-b473-6058e83b432b,Eletrônicos,Smartphones,tenetur,3494.29,Duarte da Rocha S/A,25
+ec7109e9-45cf-4e2b-b088-7739eaf1c777,Esportes,Indoor,impedit,1803.53,Cavalcanti,44
+f18f25e9-b9da-4cc3-9afa-6eff9dac4fc1,Automotivo,Ferramentas,praesentium,245.86,Pimenta,877
+e171f959-bd79-481e-af0e-bf547e174504,Automotivo,Acessórios para Carro,sed,173.76,Pereira,408
+90cd526e-7232-4f10-a76c-86ed52d0f619,Automotivo,Acessórios para Carro,quia,1614.49,Montenegro,938
+3c900a7f-1a1c-4591-b1e5-e3e6ddf59a31,Automotivo,Ferramentas,aut,4318.16,Cardoso e Filhos,489
+6bbae66f-78cd-4562-826d-3332e19e2ae6,Eletrônicos,Laptops,enim,2885.19,Vargas - ME,802
+d39fa955-3f1c-4020-8180-c5a946836263,Roupas,Feminino,dolorum,2265.73,da Mata - EI,267
+95b94ebc-3a05-47be-954c-0c806f897c90,Automotivo,Acessórios para Moto,delectus,1680.5,da Paz,254
+36a32512-3ecf-4279-8e8e-b0ddc7e966a2,Automotivo,Acessórios para Carro,culpa,3785.48,Fonseca,298
+07583a17-b0d7-4c3d-a25f-322968e56907,Casa e Jardim,Cozinha,dolorum,911.82,Caldeira,389
+5ab0020d-d3e8-4dee-8e00-2903c582ad6e,Eletrônicos,Laptops,qui,2960.59,Fernandes Abreu S/A,406
+7a65151c-b2dd-447c-be5d-504486debde2,Casa e Jardim,Cozinha,itaque,3901.07,da Cunha,730
+9932877d-1247-4945-a5a9-ffca3e4ce3e8,Roupas,Infantil,excepturi,1340.95,Nunes S/A,436
+4fab0c94-f08f-4cd4-bd41-c806b1fc1127,Automotivo,Acessórios para Moto,vel,4693.78,Albuquerque Correia e Filhos,812
+85730d17-54bc-465a-abf5-8c6eb6c19487,Automotivo,Acessórios para Carro,consequuntur,4994.36,Moraes S/A,907
+8193fe86-7ba7-47fb-a107-001553c02df9,Automotivo,Acessórios para Carro,aliquam,890.31,Barbosa,84
+65ed3e1c-d60d-4701-ba87-758294ec7895,Roupas,Masculino,temporibus,4548.01,Cavalcanti Pires Ltda.,73
+2fda5dfd-7fc6-472f-b832-0a7cceabdcae,Eletrônicos,Smartphones,doloribus,1707.53,Melo,600
+7188ffc7-3d48-4ccc-9966-b9fc1280de2f,Eletrônicos,Tablets,repellendus,2003.6,Vasconcelos Santos Ltda.,845
+c1c1d0ed-ca67-4a37-9e97-5c5c852c5b47,Roupas,Feminino,architecto,801.29,da Costa,561
+61e8f16f-1288-4ecc-8bb0-329f4dcef865,Casa e Jardim,Jardim,ea,3467.1,Araújo - ME,179
+909f0ec6-ddde-4434-ba2b-e5a49b288cbb,Esportes,Indoor,magni,2127.95,Nunes da Paz e Filhos,490
+e0d24914-93f1-4af3-b53c-0dcc780dbc0e,Roupas,Feminino,assumenda,961.67,Araújo,635
+50345495-036d-429e-9dce-fd5a679dd91e,Automotivo,Acessórios para Moto,ea,1302.79,Farias - EI,566
+f69e3310-64b0-4f28-9017-6627e5d2fb41,Esportes,Indoor,ex,3072.6,Barbosa S.A.,526
+b5d12318-a4f0-406f-8bdf-1431e5895ecb,Roupas,Infantil,aliquam,4509.78,Pastor Sampaio - ME,657
+accdb7bf-bee4-48c7-a64f-1281a50d23de,Eletrônicos,Laptops,sed,4331.33,da Costa,205
+8012bf75-47fa-4bd3-9fe9-9372d09c0919,Esportes,Fitness,ipsam,543.62,Marques,753
+2183f0ae-79cc-499a-b970-2767f48cf772,Casa e Jardim,Jardim,aspernatur,1991.04,Montenegro,135
+70172f2e-4343-4694-8652-e5941fb74d15,Esportes,Fitness,accusantium,627.87,da Cunha,386
+cad16117-70c4-427a-9b4e-263b80ce8d67,Eletrônicos,Laptops,in,2979.4,Cunha,156
+794cc625-7b2b-4d20-ba5a-048a61dd9a93,Automotivo,Acessórios para Carro,dolorem,3070.61,Garcia,57
+7251c8f6-d090-4f0c-8f47-6523bd159423,Esportes,Fitness,animi,1301.14,Castro - EI,54
+a5c2243b-e6fb-419a-ac49-0fe508e84652,Eletrônicos,Laptops,tenetur,3110.18,Câmara,505
+c7494b3b-f108-4b3d-81c4-5706735491d8,Roupas,Masculino,quisquam,1757.83,Vasconcelos,19
+7e4c9443-4011-4136-b41a-2937f991e6d0,Automotivo,Ferramentas,excepturi,3295.01,Guerra,671
+a5ca495c-b5d5-4104-9f2a-66b774f803cf,Eletrônicos,Laptops,corrupti,976.39,Cirino Abreu - EI,358
+eb4f9f43-5ba5-40d7-a81d-f57951d24910,Esportes,Indoor,vel,1641.11,Dias,515
+0226de3e-15ad-4c55-acc2-19e64f84e43b,Casa e Jardim,Jardim,facere,2070.82,Fogaça,75
+48949e66-5c5a-44fc-bddf-34467d810041,Eletrônicos,Tablets,delectus,3860.36,Martins Fernandes - ME,680
+7cdc8ed6-6c39-4ffc-95b2-5562450566ba,Automotivo,Acessórios para Carro,dolorem,3089.14,da Cunha das Neves e Filhos,447
+401f01dc-ecd0-49cb-a974-1deb283f8794,Automotivo,Ferramentas,assumenda,4659.8,da Costa Cirino S.A.,76
+a4f9adce-35ad-40e0-8b87-0d024a3722d9,Automotivo,Acessórios para Carro,quia,2159.0,Duarte Sá - EI,746
+0393d7c5-1fb7-4968-ae6a-508f23965bd5,Roupas,Feminino,ex,249.69,Santos e Filhos,462
+3db57dbd-c067-410c-a955-4e5a3d2f71b6,Automotivo,Acessórios para Moto,sunt,4606.32,Siqueira,766
+110aa127-b7d8-44f6-876f-6131b613df80,Roupas,Infantil,suscipit,1496.39,Fonseca,558
+4c4c2290-80ca-43f1-baf2-065a980d08c1,Esportes,Outdoor,vel,3508.5,Novais,305
+a18b6b4b-78d4-492c-8331-9be0014a492f,Esportes,Fitness,hic,146.83,Freitas,228
+1f6ab0aa-78ef-408b-a7a0-44d2481f1229,Roupas,Infantil,quae,4524.21,Rocha,620
+6f5694da-d37d-4ab2-bf8a-43c4eef1ddbb,Casa e Jardim,Jardim,provident,2643.83,Garcia,28
+023ab9ac-1e48-42b6-992d-cc385c29f3fa,Esportes,Indoor,aspernatur,1661.92,Lopes,445
+43a5df84-8eb6-487b-a9be-8f866f712c69,Casa e Jardim,Jardim,sunt,4439.11,da Mota Lopes - EI,288
+7533a94e-9f45-46fa-b1d5-1d42f19c8b03,Automotivo,Acessórios para Carro,eos,4296.69,Moura da Rosa Ltda.,264
+6c1018a1-df08-4d60-baeb-27de7fd6c8ae,Casa e Jardim,Cozinha,error,2591.3,Freitas Ltda.,842
+4f3ec3b3-e6af-4e3d-8f32-da38192e489a,Casa e Jardim,Cozinha,odit,3428.31,Aragão,70
+1a16b135-0be8-42f0-9053-ad6f64194f69,Automotivo,Ferramentas,corporis,3820.4,Farias,67
+025bae99-9626-4f8a-b72f-ef19831acc20,Eletrônicos,Laptops,doloremque,4691.27,da Costa Ribeiro Ltda.,416
+782722a0-b2c6-44ac-b336-472b4840d7dc,Casa e Jardim,Móveis,cum,3397.15,Borges - ME,441
+5a280ce3-4ff2-4542-8e69-24e4395b5694,Esportes,Fitness,incidunt,479.6,Nascimento,236
+536899a4-4ddb-4a2c-97cb-743635816f81,Roupas,Infantil,blanditiis,4351.08,Macedo S.A.,194
+7f75479e-6b42-402e-8c7e-40a5656fa143,Roupas,Infantil,ex,1522.27,Garcia,525
+968c9460-26d4-414b-9ae0-46a1c5d4405f,Casa e Jardim,Móveis,similique,3519.31,Montenegro,94
+772ebd35-78dd-4311-bbb9-99977aea3bfd,Automotivo,Ferramentas,ullam,922.2,Macedo Casa Grande S/A,604
+5cf1f7d8-3440-480f-ae99-587b9e38ef06,Roupas,Infantil,itaque,3031.34,Câmara Martins S.A.,130
+05044888-c505-4fd1-9f56-ec2d09d32a5c,Eletrônicos,Smartphones,sint,4761.27,Costela Fernandes e Filhos,216
+d28ba666-122a-4609-b967-8510e9f4def1,Eletrônicos,Tablets,excepturi,2385.57,Ribeiro - EI,803
+b1a4dbca-23db-4f71-834a-51a48d15264f,Eletrônicos,Laptops,dignissimos,948.81,Cavalcante,489
+a0db9882-80dc-4959-9880-02eecbefa3ac,Automotivo,Ferramentas,itaque,4907.45,Almeida da Rosa S.A.,488
+25ac3ac7-80b9-45f5-8fb4-08a43822bda7,Eletrônicos,Tablets,iure,325.2,Gonçalves,814
+fc4fcb58-f4cd-44ac-970b-a6e26290a43c,Eletrônicos,Tablets,pariatur,1904.86,Cassiano S.A.,812
+171ecb13-4d0a-4249-a28e-534049211e6c,Casa e Jardim,Cozinha,esse,1460.06,Alves Peixoto - EI,294
+e4edf415-2d2b-4a6a-a1ca-bb2bccbf350c,Casa e Jardim,Jardim,quaerat,4250.72,Casa Grande e Filhos,954
+55e121f6-44f2-43c9-9c8f-34cf5f20b40f,Roupas,Infantil,autem,803.73,Duarte e Filhos,745
+9cd91191-c232-47e2-a337-b92cb880cfb4,Casa e Jardim,Cozinha,rem,528.1,Silva,876
+bb6ab5a9-ef5a-4f73-8cdc-9075de970066,Eletrônicos,Tablets,excepturi,4115.66,Ribeiro Ramos S/A,219
+ef346db8-1675-4473-a1ba-f7ef669138c9,Eletrônicos,Smartphones,cum,3585.94,da Mata,701
+8337f9c5-d977-48f1-baae-1fd4b29c966a,Roupas,Infantil,blanditiis,1094.59,Moura Ltda.,417
+ed1a6564-a23f-4e8d-a3ca-9b229d739979,Automotivo,Acessórios para Carro,aliquid,986.46,Pires - EI,454
+489dadb5-4181-40e5-bcd7-ce73d501510a,Automotivo,Ferramentas,sequi,4930.44,Pereira,139
+3aa6c26a-bbf2-4288-a345-7c15189c9c8d,Eletrônicos,Smartphones,facilis,4011.51,Rios Barros - ME,593
+b7347db2-5a8c-44df-b3f1-d1719115a37e,Casa e Jardim,Cozinha,asperiores,3535.05,Sá,41
+ba7641ed-d488-4ae4-9240-d32c234b2a86,Automotivo,Ferramentas,vel,3237.68,Borges,229
+f0d52912-4c10-4066-8a86-34572baf883a,Casa e Jardim,Móveis,enim,4141.03,Nogueira e Filhos,87
+891461b8-3f10-4742-9f69-d47e144913df,Casa e Jardim,Cozinha,temporibus,2056.57,Vieira,507
+140d96ba-f1c0-4930-8b5c-7bd781fba9d7,Eletrônicos,Smartphones,blanditiis,2611.44,Pereira S/A,152
+bd84e6e7-f4fc-4212-9aa4-41c2f008e983,Roupas,Infantil,inventore,3636.5,da Mota Freitas S.A.,671
+29822727-d4fa-4e0e-b63e-8c212372486a,Eletrônicos,Tablets,ipsam,488.67,Pastor Vargas S.A.,621
+38df9c9b-7089-4fef-a151-80a172ab218d,Roupas,Infantil,occaecati,2213.34,Alves,43
+f585aac9-6797-4b0a-97d0-30f30e705559,Roupas,Masculino,blanditiis,4792.28,Cardoso Cassiano e Filhos,707
+c7a1cea8-1a8c-4689-b99d-3ef03358b3a9,Roupas,Masculino,ullam,2183.52,Moura,594
+233ceb8b-af4b-4810-833d-08a865b648e4,Roupas,Infantil,earum,2822.55,Almeida - ME,553
+360956df-95ee-4da1-962f-57538bb4082c,Automotivo,Acessórios para Carro,iste,4464.7,Câmara,313
+6a2864c2-0ab3-4e32-b511-b5a4da4e5024,Eletrônicos,Laptops,dignissimos,4388.77,Pereira,595
+635d9f18-bec0-4bf2-acf4-12c162f2e82b,Automotivo,Acessórios para Carro,cupiditate,903.74,Vasconcelos,138
+311841ec-44d5-4010-bfa5-53014f936cd6,Casa e Jardim,Cozinha,distinctio,3726.05,da Mota,534
+9ead97a4-2c86-4352-995f-6ff2b3793224,Casa e Jardim,Móveis,exercitationem,1180.26,Mendonça Carvalho e Filhos,988
+34a508c9-b4bb-4fce-89db-9a52d0f4ffba,Roupas,Masculino,vel,4314.99,Albuquerque,847
+64349420-3b70-46da-95b5-da45c75779f8,Roupas,Masculino,veniam,1584.91,Martins,447
+b99fd136-ead7-4e9d-b969-61e25fc42b68,Roupas,Feminino,fuga,1687.38,da Mota,476
+1e65229d-ee9f-49e0-b4e7-d6b5bb1a0a68,Esportes,Outdoor,tempora,3842.49,Gonçalves,202
+0eff0098-cf1e-4178-973f-53dc6aa08b59,Eletrônicos,Tablets,autem,3935.53,Cassiano Pimenta - ME,230
+e804b1b9-21c3-49c1-8148-18bffc9c728c,Esportes,Indoor,soluta,3647.13,Duarte Brito Ltda.,635
+08e066bf-1073-4f1f-9e5b-60c385a92c5e,Roupas,Masculino,quos,4841.3,Siqueira Marques S/A,419
+2de8c507-d485-4448-8316-e0f7747c46ba,Casa e Jardim,Jardim,occaecati,3055.43,Souza,824
+993db7cf-0f09-400e-966e-51aef9466f96,Automotivo,Acessórios para Moto,commodi,3221.26,Fonseca - EI,772
+48fbc434-4297-4e46-9b71-091ce234d4f4,Esportes,Fitness,tempore,2669.21,Dias,5
+23aff711-43a9-4ac1-a4e2-0fa19e63e2b8,Eletrônicos,Smartphones,iusto,1463.18,Novaes Pires Ltda.,989
+b7cc7b6c-4539-45d2-8e17-dc802bfa8f4d,Casa e Jardim,Móveis,accusamus,1566.2,Sampaio,444
+e5a60122-2d5d-4c6c-ba2d-fe57503c747a,Casa e Jardim,Móveis,expedita,2365.84,Nogueira Teixeira S/A,286
+907403c7-7736-4033-b49e-86889a40aa8b,Eletrônicos,Tablets,quo,1348.69,Souza e Filhos,255
+a6169815-a4eb-4498-b252-0c3a0ed88ee1,Automotivo,Ferramentas,culpa,3024.32,Macedo,693
+6ab6c5ff-0b9d-4c5b-abda-b0db0a8a83d4,Automotivo,Acessórios para Carro,inventore,3754.71,Pereira,765
+4cefeedc-65a9-4be1-b5e9-44282125d073,Automotivo,Acessórios para Moto,dolor,3325.45,Moreira,845
+94fa5490-6957-45f4-9cf0-fd2038cdd1de,Automotivo,Acessórios para Moto,facilis,3573.49,da Rosa S/A,402
+da5547c9-a327-423b-9f45-070f1660b7f4,Eletrônicos,Smartphones,inventore,530.77,Vieira,821
+3ac258af-52d3-4c01-bdf9-9c9226a82e94,Eletrônicos,Laptops,corrupti,2022.23,Mendonça - ME,424
+f0d22dc9-e703-4952-897e-99af571a29c5,Casa e Jardim,Móveis,cum,1270.27,Pinto S.A.,1000
+d5503f79-c6b9-4880-83af-1d58925ed51e,Eletrônicos,Laptops,natus,462.77,Jesus,492
+d7ac78a6-6362-4a7f-9767-0ad9fd48dc7d,Casa e Jardim,Jardim,quasi,1476.2,Andrade,274
+d8fc1f29-d431-450d-860c-c8e8afb41bcb,Casa e Jardim,Cozinha,dicta,3864.99,Cunha Marques e Filhos,263
+30ae8faa-9f53-4557-9068-5a4e98030af7,Esportes,Outdoor,dicta,3978.97,Viana S/A,0
+77bc4bc5-b59f-40b9-9898-ef160ed9b40f,Roupas,Feminino,nesciunt,2519.76,Rezende - ME,0
+c26d6f88-4991-4557-80d3-8d67f5f402a5,Casa e Jardim,Móveis,reiciendis,445.6,Martins,596
+a8b9277b-4a38-4b96-b97b-a490ae392ec0,Automotivo,Acessórios para Moto,magni,142.41,Sousa - ME,318
+3832da0b-b99b-4bd6-918d-91c4926beac7,Automotivo,Acessórios para Carro,ipsa,1508.13,Machado Ltda.,340
+72fde161-b85d-4ed7-a6e2-e853dc3a94f7,Automotivo,Ferramentas,voluptate,840.06,Sampaio,747
+f426fcef-99f9-4ce3-89e1-0a713fb8ce51,Eletrônicos,Smartphones,doloremque,2513.7,Moura,127
+9858fd95-5781-4dcb-9618-ddb650843fa6,Eletrônicos,Tablets,ipsam,555.97,Fonseca,409
+bb79ebf2-ce24-4c3b-a330-b797119136b7,Roupas,Infantil,molestias,1681.29,da Rocha Ramos S/A,834
+4ecaddc6-8d56-4cad-af72-3f4fb089f6e0,Roupas,Infantil,aut,4780.13,Moraes Moreira S.A.,136
+205c12be-7a62-4b51-a96d-50ce81c42a72,Roupas,Masculino,modi,3169.02,Novaes,555
+d92bbcb1-9c85-4d73-af1f-d417a4ba0f69,Automotivo,Acessórios para Carro,reiciendis,2926.16,Aragão,742
+c8a4a72a-9b12-4832-8653-3af348370bfd,Automotivo,Acessórios para Carro,laudantium,3893.2,Silva Moraes S.A.,404
+07721586-e56d-4181-8349-1bec44822211,Automotivo,Acessórios para Carro,nobis,1291.8,Peixoto Guerra - ME,370
+caa2f69e-dbd6-464f-8be3-6010cec6ca19,Casa e Jardim,Cozinha,autem,3726.92,Teixeira - ME,298
+a838e806-23ca-4dac-bd9f-717122ba2361,Eletrônicos,Tablets,neque,650.65,Vasconcelos - EI,155
+84d81d3b-0d93-4635-88ae-618ff3032bf3,Esportes,Outdoor,nesciunt,1603.26,Araújo Vargas S.A.,112
+6c4f51dd-c3d2-41be-95b7-a803d77d0dde,Esportes,Fitness,molestias,3224.56,Novais da Cunha e Filhos,134
+a67a4c29-e339-4398-93f0-14fe967fb27a,Eletrônicos,Smartphones,quo,1532.11,Moreira Sampaio e Filhos,283
+57ea35c9-a6da-4b78-8e48-5a770aa64390,Automotivo,Acessórios para Moto,voluptate,3253.89,da Rocha S.A.,825
+ce078d65-59ee-459b-950e-4f7226b2ac29,Roupas,Infantil,nulla,1142.18,Aparecida S/A,900
+75a1141d-5a61-42ee-aec1-de8fc6d55910,Roupas,Infantil,expedita,1472.44,da Costa e Filhos,566
+bae3c193-4835-43c8-ad14-ab231a42c623,Eletrônicos,Tablets,illum,1690.03,Moraes,44
+d8e31a0d-3f76-4261-886d-35d61aaf3885,Eletrônicos,Tablets,ducimus,4667.9,Siqueira,305
+e13a2071-4c41-4659-a45a-d1e5280e4955,Automotivo,Acessórios para Moto,praesentium,3526.77,Pires,674
+d9396886-95eb-4485-9f97-dd54b13322c4,Roupas,Feminino,quos,1910.56,Vasconcelos,840
+b53bfeb1-4a18-447a-bb24-ede422447b48,Eletrônicos,Smartphones,hic,168.89,Aragão - ME,574
+5b5ee6b3-a3d6-467a-9d94-bc396b375d03,Esportes,Indoor,atque,3963.84,Pires Sales e Filhos,359
+d741a48e-5c22-4b5c-a20c-91b8984ca4ff,Automotivo,Acessórios para Moto,beatae,4447.82,da Costa - EI,904
+02364a80-2fd9-41c6-ab10-3c3a2c32e06a,Casa e Jardim,Jardim,delectus,2836.91,Pinto,715
+ba125eaa-958c-4908-a810-e679479a697a,Eletrônicos,Tablets,quas,3433.81,Fernandes,236
+de626448-bfc1-4488-911b-d943a7cb793c,Roupas,Infantil,cupiditate,92.7,Cardoso,170
+b184d8a4-67f4-4399-b0f1-e092a8b8bfd4,Eletrônicos,Laptops,voluptate,1539.35,Nascimento - ME,644
+d9ff788e-7a55-45e0-b043-937d9693dcc9,Automotivo,Acessórios para Moto,asperiores,687.18,Lima Pinto S/A,650
+678155ae-166a-4558-ba43-9929e4450c02,Automotivo,Ferramentas,doloremque,3084.17,Albuquerque e Filhos,829
+4d9d74af-52db-4b7c-9809-51144130e354,Roupas,Masculino,nam,1094.66,Cirino,545
+d990af12-125c-4b38-8262-abf6362510e0,Eletrônicos,Tablets,nisi,1334.48,Machado Novaes e Filhos,548
+8eb8c7f6-2d86-4587-a851-0bd490201e52,Automotivo,Acessórios para Carro,esse,3187.18,Alves,366
+dd0eb2eb-d6ba-4398-9c56-76922b92a578,Roupas,Infantil,porro,341.29,Brito,850
+10b4852f-3662-4c7e-b4c1-1a3a9164f8ea,Eletrônicos,Smartphones,inventore,1784.4,Cunha S.A.,905
+e03624de-6094-4768-8ead-603c0b00f7b1,Casa e Jardim,Móveis,ullam,4958.13,Carvalho Ltda.,554
+ca452b3b-0c2a-4bf9-b0bc-b9410c35ad9d,Eletrônicos,Tablets,distinctio,1273.01,Gonçalves Sampaio S/A,295
+5a8c494c-4daa-4b64-9d67-63c891b7bc6b,Casa e Jardim,Móveis,cumque,1487.09,Casa Grande Rezende Ltda.,747
+e4c9e1d6-5e7f-4c0a-a166-e83ca34eb097,Casa e Jardim,Cozinha,quasi,2539.86,Montenegro S.A.,506
+56a1be6a-8dbf-403b-a966-9e37da9e5901,Esportes,Indoor,modi,2700.06,Cavalcante Sampaio S/A,989
+757b3af4-e6b7-433a-ba9c-3fda0c32e484,Eletrônicos,Tablets,possimus,1414.82,Cavalcante Machado S.A.,609
+72ef7390-2a50-4aa5-841b-0d7646097159,Casa e Jardim,Cozinha,similique,1254.81,Novais,151
+930ed470-d34d-4875-804c-41c83cd879a3,Esportes,Indoor,unde,1350.69,Casa Grande S.A.,901
+407a4576-95c4-4cc0-893e-879ed3c1d50e,Automotivo,Acessórios para Moto,molestias,3098.18,Pastor,896
+9507bcc2-aa39-4a94-9975-7364f9e002a2,Esportes,Fitness,reiciendis,3739.41,Viana,971
+be8af379-de14-4da4-b0c8-0d6447737fcb,Eletrônicos,Tablets,fugiat,2443.97,Pereira,624
+81b593a2-3e42-4f8e-b4d3-218ce44d538b,Eletrônicos,Laptops,dolorum,3731.46,Camargo,833
+4f941eb6-de33-49b2-9870-e9851e6693ee,Automotivo,Acessórios para Carro,et,4856.3,Lopes,785
+00bb962f-395f-4d42-81fa-098170387ce9,Roupas,Masculino,laborum,2111.5,Fogaça Pacheco e Filhos,669
+86343e10-c517-4161-aa2c-ab7938b07257,Roupas,Masculino,voluptate,207.83,Camargo S/A,695
+404ce17e-95d1-4b93-8e97-6c9ea0e83d09,Roupas,Infantil,illo,1630.1,Santos S.A.,765
+6d4dd1c0-6a35-480a-aeb7-50a41c6b9951,Casa e Jardim,Cozinha,aperiam,503.33,Rodrigues Brito S/A,501
+bf653b70-ebca-4e78-ab11-031377bb1336,Eletrônicos,Tablets,dolores,77.7,Dias,929
+d4abaa93-9430-4bfc-8353-059347f13330,Eletrônicos,Smartphones,numquam,4777.94,Montenegro - ME,578
+ed454385-5ae9-4ba0-ac21-de6b2f4b64d5,Roupas,Feminino,animi,1248.81,Duarte,645
+c38c1e25-a7d6-4b31-bba1-701ced071628,Eletrônicos,Smartphones,magni,3589.34,das Neves,882
+8fffeedf-7c2f-4ce6-bc26-0618563a1293,Casa e Jardim,Cozinha,doloribus,493.66,Campos Souza - EI,784
+0ed8bd9b-3914-479f-88a8-ca6cd3acb1ac,Esportes,Outdoor,minus,2509.66,Rezende,471
+99953c02-10f0-4dbd-890f-d25da2c78e70,Esportes,Indoor,tenetur,3707.08,Jesus,958
+04b2c49f-5a97-44c6-b836-0f7cb3d4fd1c,Casa e Jardim,Cozinha,maxime,2293.97,Carvalho,174
+6bfdd55c-69d7-41bc-8aaf-89b680e3429e,Roupas,Infantil,libero,965.54,Nascimento - EI,606
+a043f4b2-a870-45e2-a086-473a11739789,Eletrônicos,Tablets,voluptas,2625.27,Sales Mendes e Filhos,116
+1c76adfc-4cd7-4d61-a7df-f5144ae5bb36,Automotivo,Acessórios para Carro,nisi,276.28,Novais - EI,267
+01a65bfd-6b47-4cdb-929e-965d06915975,Eletrônicos,Smartphones,dignissimos,4561.88,Rezende,615
+189e72c2-c079-46af-b0ff-fe93f43f42f9,Automotivo,Acessórios para Moto,iste,4626.32,Correia da Rocha e Filhos,980
+5d8d5d69-2325-44f7-b5af-02687a52e4fb,Casa e Jardim,Cozinha,pariatur,1061.63,Andrade Rocha S/A,674
+0856e990-59e4-4c88-98be-cd57c1935322,Automotivo,Acessórios para Carro,ab,3738.0,Sampaio Alves Ltda.,123
+06dc08a0-f579-479e-bec4-4e73a39de3a2,Automotivo,Acessórios para Carro,tenetur,4058.35,Casa Grande,347
+600ea317-9ea7-44e6-bc09-09d1db7da3a7,Casa e Jardim,Jardim,eos,4648.72,Rezende Rocha S/A,772
+1dd820c1-0ca9-44df-99e9-d8bd3934dcf1,Casa e Jardim,Cozinha,inventore,3301.58,Freitas,484
+1cd8e5a9-8ad2-4b20-8325-0e3223500b06,Roupas,Feminino,cumque,986.9,Souza,1000
+527985ad-51a8-4ba2-b2a6-19cd188b8bd9,Automotivo,Acessórios para Carro,optio,3485.73,Cirino S/A,926
+6068a84c-f3ea-4f35-9eb4-f890dea6b565,Eletrônicos,Smartphones,dolorem,4579.8,Nunes,38
+11d5a9e6-5840-40a2-9fdc-02f99884b4ec,Esportes,Outdoor,veniam,1503.73,Campos,605
+12e03d9a-3c91-4a00-81af-acd020145ca3,Roupas,Masculino,similique,801.62,Leão S/A,148
+7620568e-7811-42e2-917a-7a4cca5ce4f1,Casa e Jardim,Cozinha,autem,4725.29,Nogueira,887
+cc8c4cb1-028f-4e86-955e-20d2239d3540,Esportes,Indoor,voluptate,739.16,Macedo da Paz S/A,362
+ad5001f5-5d6b-492f-b51d-7dabb29eaa9b,Roupas,Infantil,autem,3225.93,Marques,563
+621518b3-afe9-4b11-83c0-651fd918520c,Roupas,Feminino,non,2775.11,Sousa Montenegro S.A.,809
+c4dabc7b-1011-4f6d-a50d-f5e59a939512,Roupas,Infantil,accusamus,225.73,Freitas,24
+49c14a11-7b12-42a2-b64e-ca9fea7f3a93,Roupas,Masculino,expedita,2811.12,Albuquerque,372
+a9f4075d-bbff-4852-9a8b-36ff9cc51cd8,Casa e Jardim,Jardim,temporibus,3932.4,Rocha,537
+055e3549-0ccf-4d70-901c-9feb75904b09,Esportes,Indoor,quae,2879.44,Camargo,470
+3617bd72-0aa6-40ef-9e9f-3851123114a6,Automotivo,Acessórios para Carro,pariatur,4095.08,Câmara,560
+3bc0c1a5-05f2-46d2-9879-8eaab6afd81e,Automotivo,Acessórios para Carro,animi,1506.64,Almeida,498
+313deec4-bb19-419b-80d6-07129fd2db50,Eletrônicos,Laptops,sunt,2337.98,Correia S/A,50
+ee7a083f-c7df-46ee-8229-2cf5fb734950,Roupas,Infantil,magni,4595.12,da Conceição - ME,867
+1c8d29a8-a178-4799-9422-68692760f4ac,Automotivo,Acessórios para Moto,tempora,4075.83,da Rocha,471
+7e355c79-414d-4f1c-ad84-b5a18bb8c1c9,Esportes,Indoor,facilis,1322.46,Cassiano,103
+1787d7aa-e534-4a72-ae0f-cfe80cf26c4b,Eletrônicos,Tablets,alias,4639.06,Oliveira Cardoso - ME,873
+f596259c-ef9d-4512-8e64-59de99429f35,Esportes,Indoor,tenetur,749.74,Novais,301
+54ca311b-2283-4596-9021-b3f4bead9b9d,Roupas,Masculino,quod,2000.83,Barbosa,182
+47192830-d743-45c5-b1b2-93e7cb4826ae,Esportes,Indoor,fugiat,3445.53,da Costa,276
+c679da57-dd30-4f07-9d62-4734615ffaaa,Esportes,Indoor,quasi,1403.06,Brito,503
+31a5d4a6-78de-4644-a721-58b3670f5af7,Roupas,Feminino,tenetur,4997.18,da Conceição e Filhos,847
+b7e94725-02dc-48a0-ba9a-5106ca4d354e,Esportes,Fitness,autem,3675.19,Aparecida,899
+2b08a725-e410-4865-ba55-d11103dd57ca,Automotivo,Acessórios para Moto,exercitationem,3302.38,Machado,413
+36e608b6-696c-41e5-a8db-c6aeedb49f85,Roupas,Feminino,expedita,18.28,Pacheco - EI,632
+23844051-ad2f-4c5c-8dd7-999373f17ac1,Eletrônicos,Tablets,dignissimos,4254.8,Barros Borges Ltda.,819
+b093cb5e-7f85-4fff-be1b-477cc132090d,Esportes,Outdoor,est,217.61,da Mota,723
+e49bdd40-b250-475b-9850-5df25449a47a,Casa e Jardim,Cozinha,iste,4200.11,Novaes das Neves - EI,145
+d5bfadfb-23dd-4939-9f75-fcff3b7bd65d,Roupas,Feminino,adipisci,3980.29,Garcia - EI,168
+8332cc12-b313-4a7f-819e-665e440514b0,Esportes,Indoor,sapiente,2884.65,da Cruz Câmara e Filhos,446
+a066a889-207f-4c0d-91d7-a48afebc2c44,Eletrônicos,Smartphones,nostrum,1917.82,Borges,774
+f1b4f1ff-249f-4c02-a54a-91dd3d90164e,Eletrônicos,Laptops,unde,4341.61,Ribeiro - EI,397
+e7e600e9-438e-4957-a7f6-3bb203ff4e85,Eletrônicos,Laptops,sint,4807.89,Martins Brito - EI,154
+491e4085-6cc0-490f-a52e-055a416c76ae,Eletrônicos,Tablets,praesentium,1210.45,Pereira Ltda.,418
+d51c4738-48b5-4589-b6a9-68f9270bc282,Casa e Jardim,Jardim,minus,2013.22,Porto,478
+a10cf129-e87d-40e0-b0db-16f2ac17e939,Automotivo,Ferramentas,pariatur,3696.02,Cardoso S/A,693
+76d6d755-b028-48fe-a2f5-75503328a926,Roupas,Infantil,sit,4982.61,Jesus - ME,506
+7e2a920f-08e9-4893-91ed-fb97cf2469f5,Eletrônicos,Smartphones,sapiente,2600.05,Rezende,788
+225209b4-ff5a-4077-b60e-8925b944f8f3,Esportes,Outdoor,maxime,896.82,Marques - ME,141
+7fc1df1e-0d8a-4579-a81d-b5f8e772555b,Roupas,Feminino,iste,2311.19,da Rosa,125
+88259a31-8629-4cd4-91d6-fc0ee99e569f,Esportes,Indoor,corporis,3084.44,Araújo Montenegro - EI,400
+c6586ff3-7d97-43c9-bb60-637dc86b69ab,Casa e Jardim,Jardim,ipsum,322.73,Pastor S/A,999
+1485d165-30e3-429b-970f-68a6723ad92e,Eletrônicos,Smartphones,aut,3513.73,Macedo Ltda.,941
+97206aee-cd51-491b-a703-5472a15139aa,Automotivo,Acessórios para Moto,id,1863.5,Pires,643
+8ab5f8f2-8d2c-4dfb-a4fb-321fbd2639f0,Automotivo,Ferramentas,earum,2945.01,Moura,371
+d823dc65-ef8b-4ab6-897f-9bf5d0d5b8c7,Casa e Jardim,Móveis,eligendi,3824.03,Montenegro - EI,776
+2804827d-2729-4bad-9ef5-7d71459b6e72,Esportes,Outdoor,delectus,4814.33,Santos - ME,833
+dc1b2f04-14d8-4076-a04f-f5bd0ef909c6,Eletrônicos,Laptops,optio,538.44,Rocha S/A,540
+dc0c17cc-56c2-4a69-a2ad-4739341b6895,Esportes,Fitness,aliquam,1169.33,Casa Grande S.A.,477
+1e6478c7-3d59-4f8f-99f1-25031c5d813a,Casa e Jardim,Jardim,vel,956.18,Albuquerque,81
+e61274a3-2500-4b75-ad84-e0ad78daf97d,Casa e Jardim,Jardim,sed,4001.49,Almeida,741
+2a5cb863-ceec-42ca-b004-9b1014a28f4e,Eletrônicos,Tablets,quis,3410.56,da Cunha,72
+6beb7a5e-fa25-4288-8a35-673d8260eec4,Casa e Jardim,Cozinha,eveniet,1692.75,Castro,693
+4ef00d1a-22eb-40da-8b38-3e8d5993451b,Roupas,Feminino,beatae,627.64,Cavalcante,338
+bd0ecf77-6d31-4a69-9ec4-ce7edf19c840,Automotivo,Acessórios para Carro,nostrum,83.17,Silva,691
+e1adb97b-1ed0-45e1-ad15-0ac9ae609495,Automotivo,Acessórios para Carro,sequi,257.78,Teixeira Gomes - ME,827
+4db57d40-6e98-48c7-91ed-e38cd18d87d9,Eletrônicos,Smartphones,optio,2209.03,Pereira,735
+b2a49734-6ede-4d46-b53d-272b71d7a40c,Eletrônicos,Tablets,beatae,1692.15,Brito,860
+bfd68d5b-bf70-413e-bf31-cb11a2ff1d33,Casa e Jardim,Cozinha,aliquam,4268.76,Rios,65
+2a0c17dd-6b1b-4d39-a855-2ed1e60c24c2,Roupas,Infantil,dicta,3592.27,Novaes,489
+c51d795f-b605-494e-8867-ab366da1b7f3,Automotivo,Acessórios para Moto,unde,2680.47,Sampaio,546
+0ffbd966-2c76-4216-98a6-1fc79dbb55f3,Casa e Jardim,Cozinha,iste,1233.86,da Rocha,552
+4048f84a-c71b-4d43-9165-083850e76e83,Casa e Jardim,Jardim,possimus,1724.37,Cavalcante,647
+052c6889-cb15-4dbe-813e-ded1b6b01ec4,Eletrônicos,Smartphones,mollitia,105.4,Almeida,816
+75c5cf9d-f1a3-4304-865e-abee19d00d8f,Roupas,Infantil,voluptatum,179.06,das Neves,220
+156b40b5-6e4e-4b3d-9ce7-2d799fd41216,Esportes,Outdoor,totam,1231.36,Guerra,324
+743b81d5-398e-42e4-b962-ff7bf1eb14c5,Casa e Jardim,Móveis,at,247.94,Costa,489
+44ed64ed-84b5-4b66-ab42-335e2a1a5cd7,Esportes,Outdoor,sint,194.9,Melo,184
+572c0097-38a1-48cf-81c4-15cbf76eb536,Eletrônicos,Smartphones,ad,177.04,Martins,902
+9093575d-7a6e-455f-a850-d0dd8d12fdb8,Automotivo,Acessórios para Moto,tempora,1139.28,Nunes,139
+8df5ebd1-7596-429b-be82-8f3ad9e8d122,Esportes,Fitness,fugit,2853.46,Fernandes Viana Ltda.,362
+e7632f78-9234-4407-b11d-10e74b922c93,Casa e Jardim,Móveis,et,177.9,Vargas,824
+363f14d6-3ef2-422a-975c-29e807f5c3d3,Automotivo,Acessórios para Carro,fugiat,4003.2,Oliveira,784
+6012f60e-4eb6-468f-8fef-0aad7d7363ed,Casa e Jardim,Móveis,rerum,1381.51,Peixoto Farias Ltda.,440
+d9aa9936-ed50-49f4-a642-bcc9cd2305a4,Automotivo,Acessórios para Moto,animi,3072.85,Aparecida,97
+3c29df5e-f2a8-4502-989e-0349a367bbc1,Esportes,Fitness,temporibus,1202.66,Cavalcante Santos S/A,351
+c1ae568b-dccf-42bb-8999-bfbd792d8f6a,Automotivo,Ferramentas,quae,2628.82,Vargas e Filhos,580
+8bd37dd0-3d7a-447d-be91-e802f4fe470a,Eletrônicos,Smartphones,repellat,2755.11,Campos Ltda.,246
+d1b32bb0-6438-4064-9cb2-bc3b921c1e73,Roupas,Infantil,at,1265.54,Almeida S/A,747
+eaa8e2f1-87e1-4b08-915c-94dcbd60aae6,Roupas,Infantil,temporibus,3649.36,Aragão Aparecida - EI,466
+ed1d989d-4ca0-4f15-b873-023070ff10af,Automotivo,Acessórios para Moto,odio,2376.87,Câmara,830
+1873f1dc-5afb-45c7-80b4-5975a20b9d49,Casa e Jardim,Jardim,ut,4833.82,Moura,570
+9cc102ca-9d1b-43e2-a054-1fdee15dab15,Casa e Jardim,Cozinha,sequi,136.04,Ferreira Rios - EI,604
+9cc0eba2-f253-4254-8507-a5c3809185e6,Casa e Jardim,Jardim,unde,1192.52,Araújo S/A,45
+8c8bb042-dc59-4d8c-a5d9-9cdc9b14a38d,Eletrônicos,Tablets,non,362.17,Oliveira Montenegro - ME,239
+90574feb-710a-4c42-9b39-cb93f60a1d36,Automotivo,Ferramentas,veniam,3011.83,da Cruz Santos S.A.,503
+767a7522-21cd-4f7b-82a7-3c153a32ef5c,Automotivo,Acessórios para Moto,doloremque,209.45,Sampaio Pastor - EI,733
+793e8c95-aca6-40c8-8d79-e8190aca937d,Roupas,Masculino,provident,3619.06,da Paz Fonseca e Filhos,22
+e1a931a4-66f5-4770-80db-a7d954329e42,Casa e Jardim,Jardim,porro,3791.39,Nogueira S.A.,360
+6460e9aa-8f1e-47dd-aec8-4d0a488b0cdd,Esportes,Fitness,optio,536.71,Nascimento e Filhos,119
+b55a1ae0-02cd-43dd-a8ac-534208edc52b,Esportes,Indoor,voluptas,2191.07,Aragão e Filhos,773
+a6b8e8c8-d70d-49ad-b03b-8fa5a87cd7c8,Eletrônicos,Laptops,delectus,3131.97,Abreu,144
+a62c6135-2a88-40e0-bd5a-a255186b18f2,Esportes,Indoor,illum,3261.66,Cassiano S.A.,825
+83e87388-965a-49cf-b9cb-84eca7375073,Roupas,Feminino,ullam,4100.89,Cavalcante,771
+01c6829a-260d-41cb-bcca-992c2ac75963,Esportes,Indoor,vitae,453.83,Camargo,483
+950f1fe2-a9ad-4de6-831d-ece3a2c04000,Casa e Jardim,Jardim,a,2324.96,Ribeiro Vieira S/A,215
+ba901b95-eb8a-4f10-81b5-769524e0b417,Eletrônicos,Tablets,ullam,1116.6,Novais Pires S/A,268
